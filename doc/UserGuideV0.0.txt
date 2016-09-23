@@ -1,0 +1,20 @@
+Pp
+User Guide
+
+
+This product is meant to address the concerns of users who wish to schedule their tasks using a simple and easy command-line interface.
+
+
+Starting the program
+
+1. Find the project in the Project Explorer or Package Explorer (usually located at the left side)
+2. Right click on the project
+3. Click Run As > Java Application and choose the Main class.
+4. The GUI should appear in a few seconds.
+*Insert picture here
+Viewing list of commands
+Typing “help” or any incorrect command will display a list of commands.
+
+
+
+
